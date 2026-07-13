@@ -35,5 +35,4 @@ streamlit run app.py
 **Hania Eman**
 AI & Data Science Student
 
-GitHub: https://github.com/haniaeman2026-pixel
 
